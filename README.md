@@ -24,8 +24,8 @@ It's built as a single HTML file with no backend. The headline demo uses Stripe'
 ## Try it locally
 
 ```bash
-git clone https://github.com/holmjames/mgmt275finalproject.git
-cd mgmt275finalproject
+git clone https://github.com/holmjames/mcp-generator.git
+cd mcp-generator
 open index.html
 ```
 
